@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Kai-Trace</string>
+    <string name="edit_message">Enter a message</string>
+    <string name="display_text">Hello World!</string>
+    <string name="toggle_service_btn">Turn On/Off Energy Saver</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_display_message">My Message</string>
+    <string name="close_btn">Shutdown All Services</string>
+</resources>
